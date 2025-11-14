@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/SynthoraAI-AI-News-Content-Curator/AI-Content-Curator-Monorepo/blob/main/README.md
+    about: Check our comprehensive documentation
+  - name: 💬 Discussions
+    url: https://github.com/SynthoraAI-AI-News-Content-Curator/AI-Content-Curator-Monorepo/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 🔒 Security Issues
+    url: https://github.com/SynthoraAI-AI-News-Content-Curator/AI-Content-Curator-Monorepo/security/advisories/new
+    about: Report security vulnerabilities privately
